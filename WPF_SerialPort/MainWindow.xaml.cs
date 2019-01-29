@@ -17,7 +17,7 @@ namespace WPF_SerialPort
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
-    /// </summary>
+    /// </summary>  
     public partial class MainWindow : Window
     {
         public MainWindow()
